@@ -1,5 +1,3 @@
-import javax.activation.MailcapCommandMap;
-
 public class User {
     private String firstName;
     private String surname;
